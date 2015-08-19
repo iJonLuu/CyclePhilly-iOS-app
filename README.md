@@ -1,11 +1,11 @@
-Cycle Philly, 2013 Code for Philly
+Cycle San Diego, 2013 Code for San Diego
 -----------
-Philadelphia, PA. USA
+San Diego, CA. USA
 
  Contact: Corey Acri <acri.corey@gmail.com>
              Lloyd Emelle <lemelle@codeforamerica.org>
 
-Updated/Modified for Philadelphia's app deployment. Based on the
+Updated/Modified for San Diego's app deployment. Based on the
 CycleTracks codebase for SFCTA.
 
 
@@ -15,20 +15,20 @@ Copyright 2009, 2010 San Francisco County Transportation Authority
 100 Van Ness Ave, 26th Floor
 San Francisco, CA 94102 USA
 
-Copyright 2013 Code for Philly
+Copyright 2013 Code for San Diego
 
 Code primarily written by Matt Paul, with some mods by Billy Charlton.
 
-CyclePhilly Modifications written by Lloyd Emelle, Kathryn Killebrew, and Kevin Clough.
+CycleSanDiego Modifications written by Lloyd Emelle, Kathryn Killebrew, and Kevin Clough.
 
-CyclePhilly and CycleTracks is released under the GNU General Public License, version 3.
+CycleSanDiego and CycleTracks is released under the GNU General Public License, version 3.
 See 'COPYING' for a detailed description of the GNU GPL.
 
 -----------
 
 Installation Notes
 -----------
-CyclePhilly is setup to use Firebase for realtime updates. Please follow the instructions
+CycleSanDiego is setup to use Firebase for realtime updates. Please follow the instructions
 at https://www.firebase.com/docs/ios-quickstart.html to setup Firebase and its dependencies.
 
 In the constants.h file, change the kFireDomain variable to your firebase url.
